@@ -1,0 +1,22 @@
+{
+  "name": "uts-lab-pemrograman",
+  "version": "1.0.0",
+  "description": "Aplikasi CRUD data mahasiswa (UTS Lab Pemrograman)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "crud",
+    "mahasiswa",
+    "express",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "express": "^4.19.0"
+  }
+}
