@@ -5,3 +5,4 @@ db/*.db-*
 .env
 .DS_Store
 npm-debug.log*
+NASAH_VIDEO.md
